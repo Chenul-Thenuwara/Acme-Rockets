@@ -60,4 +60,5 @@ npm run build
     <p>This project is based on the tutorial by <a href="https://github.com/gitdagray" class="text-blue-500 underline">Dave Gray</a>. Thanks to the Tailwind CSS community for the support!</p>
   </div>
 </body>
+
 </html>
